@@ -14,12 +14,17 @@ body{
 
 #nav-container{
     margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 ul{
     display: flex;
     list-style: none;
 }
 nav ul{
+    width: 100%;
+    display: flex;
     justify-content: space-around;
 }
 nav ul li a{
