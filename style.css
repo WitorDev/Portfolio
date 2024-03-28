@@ -87,6 +87,9 @@ nav ul li a{
     font-family: "Passion One", sans-serif;
     font-size: 25pt;
 }
+.technologies ul{
+    list-style: none;
+}
 
 /* Tech */
 
